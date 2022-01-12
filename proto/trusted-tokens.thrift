@@ -1,4 +1,4 @@
-namespace java com.rbkmoney.trusted.tokens
+namespace java dev.vality.trusted.tokens
 namespace erlang trusted_tokens
 
 typedef string CardToken
